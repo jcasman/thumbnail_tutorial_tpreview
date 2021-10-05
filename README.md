@@ -1,5 +1,7 @@
 # RICOH THETA Live Preview Tester
 
+NOTE: This version of tpreview was built Oct 5, 2021, and is not a fork from the original tpreview. tpreview is under rapid development and will be changing. This version is the version used in the video [Comparing listFiles Thumbnail Command for RICOH THETA Z1, V and SC2](https://youtu.be/ZAiZy53YtkU)
+
 Command line tester for RICOH THETA [get live preview API](https://api.ricoh/docs/theta-web-api-v2.1/commands/camera.get_live_preview/).
 
 
